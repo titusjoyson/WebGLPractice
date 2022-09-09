@@ -1,0 +1,1 @@
+export const gravityConstant = - 9.8;
